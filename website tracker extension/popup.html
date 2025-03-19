@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALT-F4</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <h2>ALT-F4</h2>
+
+        <div class="input-group">
+            <input type="text" id="site-input" placeholder="Fetching URL..." readonly>
+            <input type="number" id="time-input" placeholder="Set limit (min)">
+            <button id="set-limit">Set Limit</button>
+        </div>
+
+        <!-- Live Digital Timer -->
+        <div class="timer-container">
+            <label>Time Remaining:</label>
+            <span id="live-timer">00:00:00</span>
+        </div>
+
+        <ul id="usage-list"></ul>
+
+
+        <button id="toggle-dark-mode">Dark Mode</button>
+        <button id="export-data">Export Data</button>
+        <input type="file" id="import-data">
+
+        <button id="settings-btn">Settings</button>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

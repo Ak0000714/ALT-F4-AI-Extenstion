@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "ALT-F4",
+  "version": "1.0",
+  "description": "Track website usage, set timers, and get AI productivity suggestions.",
+  "permissions": ["storage", "alarms", "activeTab", "notifications", "webNavigation"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "web_accessible_resources": [{ "resources": ["icon.png"], "matches": ["<all_urls>"] }]
+}
