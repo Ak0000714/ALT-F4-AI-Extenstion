@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Settings - AI Productivity Tracker</title>
+    <link rel="stylesheet" href="settings.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Settings</h2>
+
+        <div class="option">
+            <label for="dark-mode">Dark Mode</label>
+            <input type="checkbox" id="dark-mode">
+        </div>
+
+        <div class="option">
+            <label for="notifications">Enable Notifications</label>
+            <input type="checkbox" id="notifications">
+        </div>
+
+        <div class="option">
+            <label for="tracking">Enable Time Tracking</label>
+            <input type="checkbox" id="tracking">
+        </div>
+
+        <button id="save-settings">Save Settings</button>
+        <button id="reset-settings">Reset to Default</button>
+        <button onclick="window.location.href='popup.html'">Back</button>
+    </div>
+
+    <script src="settings.js"></script>
+</body>
+</html>
