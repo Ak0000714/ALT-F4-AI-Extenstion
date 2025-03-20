@@ -1,51 +1,82 @@
-Here's a well-structured **README** template for your Chrome extension. You can modify it based on your specific features and requirements.  
+👀 All Eyes on You – AI-Powered Productivity & Screen Time Tracker
+
+🚀 Track your website usage, stay productive, and take smart breaks with AI!
+All Eyes on You is a powerful Chrome extension that helps you monitor screen time, get AI-driven productivity suggestions, and stay sharp with interactive riddles!
+
 
 ---
 
-# **📌 AI-Powered Productivity & Screen Time Tracker Chrome Extension**  
+🛠 Features
 
-🚀 **Enhance your productivity and manage screen time with AI-powered insights!** This Chrome extension helps you track website usage, set time limits, receive AI-driven productivity suggestions, and stay focused with features like Pomodoro integration and smart alerts.  
+✅ ⏳ Website Usage Tracking – Monitors websites visited and time spent.
+✅ 🧩 AI-Powered Riddle Game – Fun challenges to refresh your mind.
+✅ 🚨 Smart Alerts – Warnings when screen time is excessive.
+✅ 🔮 AI-Powered Productivity Suggestions – Smart tips based on browsing habits.
+✅ 👀 Eyestrain & Dehydration Alerts – Reminders to protect your health.
+✅ 📊 Usage Analytics – Get detailed reports on your browsing patterns.
 
-## **🛠 Features**  
-✅ **Website Usage Tracking** – Monitors websites visited and time spent.  
-✅ **Custom Timer & Alerts** – Set time limits for websites and receive warning notifications.  
-✅ **AI-Powered Productivity Suggestions** – Get personalized suggestions based on browsing habits.  
-✅ **Pomodoro Focus Mode** – Stay productive with scheduled focus and break sessions.  
-✅ **Smart Blocking & Alerts** – Automatically restrict unproductive websites when limits are exceeded.  
-✅ **Goal Setting & Streaks** – Maintain daily screen time goals and track progress.  
-✅ **Dark Mode & Eye Strain Alerts** – Automatically activate dark mode and remind you to take breaks.  
+💡 Powered by 🔵 AI Gemini for intelligent insights!
 
----
 
-## **📥 Installation**  
-1. **Download the Extension:** [Link to your extension] (if published on Chrome Web Store).  
-2. **Manual Installation (Development Mode):**  
-   - Download or clone this repository.  
-   - Open **Chrome** and go to `chrome://extensions/`.  
-   - Enable **Developer Mode** (top-right corner).  
-   - Click **"Load unpacked"** and select the extension folder.  
+1️⃣ Download or clone this repository:
 
----
+git clone https://github.com/your-username/All-Eyes-On-You.git
 
-## **🔧 Usage Instructions**  
-1. Click the **extension icon** in the Chrome toolbar to open the popup.  
-2. Set your **time limits** for specific websites.  
-3. Receive **AI-powered suggestions** to improve focus and reduce distractions.  
-4. Use the **Pomodoro mode** to work in productive sessions.  
-5. Check **usage analytics** and improve your screen habits.  
+2️⃣ Open Chrome and go to chrome://extensions/.
+3️⃣ Enable Developer Mode (toggle in the top-right).
+4️⃣ Click "Load unpacked" and select the extension folder.
 
----
+🎉 Done! Start tracking and stay productive!
 
-## **🛠 Technologies Used**  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Flask /
-- **AI :** gemini API  
+
+
+🔧 How to Use
+
+1️⃣ Click the extension icon in the Chrome toolbar to open the popup.
+2️⃣ Set your time limits for specific websites.
+3️⃣ Get real-time AI-powered suggestions to improve focus.
+4️⃣ Take quick riddle breaks to refresh your mind.
+5️⃣ Check your detailed analytics to improve your digital habits.
+
 
 ---
 
-## **📌 Future Enhancements**  
-🔹 Adaptive AI notifications based on browsing history  
-🔹 Voice-based reminders for break time  
-🔹 Integration with Google Calendar for better scheduling 
+🛠 Technologies Used
 
-Let me know if you need any modifications! 🚀
+Frontend: HTML, CSS, JavaScript
+
+Backend: JavaScript (Chrome APIs)
+
+AI: 🔵 AI Gemini for smart insights
+
+Storage: Chrome Local Storage
+
+
+
+---
+
+📌 Future Enhancements
+
+🔹 Adaptive AI notifications based on browsing patterns.
+🔹 Voice-based reminders for better break management.
+🔹 Integration with Google Calendar for scheduled focus sessions.
+🔹 Leaderboard & productivity challenges!
+
+
+---
+
+💡 Meet the Team
+
+👨‍💻 @Ajmal Khan M – Developer & AI Integration
+👨‍💻 @Darshan – Frontend & UI/UX
+👨‍💻 @Abishiek – Backend & Chrome API
+👨‍💻 @Harsavardhan – AI & Data Analysis
+👨‍💻 @Aswin – Feature Enhancements
+
+
+---
+
+🤝 Contribute & Support
+
+Have ideas? Found a bug? We’d love your feedback! 💡
+📌 Open an issue or submit a pull request – let’s build together!
