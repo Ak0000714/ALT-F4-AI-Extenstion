@@ -1,7 +1,7 @@
 👀 All Eyes on You – AI-Powered Productivity & Screen Time Tracker
 
 🚀 Track your website usage, stay productive, and take smart breaks with AI!
-All Eyes on You is a powerful Chrome extension that helps you monitor screen time, get AI-driven productivity suggestions, and stay sharp with interactive riddles!
+All Eyes on You is a powerful Chrome extension that helps you monitor screen time and stay sharp with interactive riddles!
 
 
 ---
@@ -10,9 +10,6 @@ All Eyes on You is a powerful Chrome extension that helps you monitor screen tim
 
 ✅ ⏳ Website Usage Tracking – Monitors websites visited and time spent.
 ✅ 🧩 AI-Powered Riddle Game – Fun challenges to refresh your mind.
-✅ 🚨 Smart Alerts – Warnings when screen time is excessive.
-✅ 🔮 AI-Powered Productivity Suggestions – Smart tips based on browsing habits.
-✅ 👀 Eyestrain & Dehydration Alerts – Reminders to protect your health.
 ✅ 📊 Usage Analytics – Get detailed reports on your browsing patterns.
 
 💡 Powered by 🔵 AI Gemini for intelligent insights!
